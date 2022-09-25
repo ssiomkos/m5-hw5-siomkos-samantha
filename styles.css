@@ -43,7 +43,7 @@ main > section {
 
 main h2 {
     border-bottom: solid gray 1pt;
-    color: #f49ec3;
+    color: black;
     margin-top: auto;
 }
 
@@ -72,7 +72,7 @@ aside {
 
 aside h3 {
     border-bottom: solid gray 1pt;
-    color: #f49ec3;
+    color: black;
     display: inline;
 }
 
