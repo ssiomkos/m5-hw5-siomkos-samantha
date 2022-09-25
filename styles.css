@@ -32,7 +32,7 @@ header > nav > a {
 }
 
 main {
-    background-image: url(assets/watercolor.png);
+    background-image: url(../assets/watercolor.png);
     padding: 15px 200px;
     min-height: calc(100vh - 110px);
 }
